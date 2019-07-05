@@ -1,2 +1,4 @@
 # Funded-short-term-visiting-PhD-student-position
-Funded short-term visiting PhD student position- simulation-based research on inter-individual differences in Event-Related Potentials
+
+The Vasishth and CSML labs at the University of Potsdam invite applications for a funded short-term visiting PhD student position. The student must be enrolled in an institution other than the University of Potsdam. The project involves simulation-based research on inter-individual differences in Event-Related Potentials. The candidate should have very good programming abilities in languages like R or python. 
+Interested candidates should first contact Audrey Bürki (buerki@uni-potsdam.de). The selected candidate will then be asked to submit a research proposal in response to the call for short-term fellowships within The Collaborative Research Centre SFB 1287 “Limits of Variability in Language: Cognitive, Grammatical, and Social Aspects” in Potsdam, Germany (https://www.uni-potsdam.de/en/sfb1287/vacancies.html). The candidate will be associated with project Q and project B05, and will work under the supervision of Dr Audrey Bürki and Prof. Shravan Vasishth. 
